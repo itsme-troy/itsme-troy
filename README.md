@@ -20,7 +20,6 @@
 |------------|---------------|----------------|
 | [**Capstone Management System**](https://github.com/itsme-troy/Capstone-Management-System) | Python · Django · MySQL | A web-based system for project proposals, results, and coordination dashboards. |
 | [**E-Commerce App**](https://github.com/itsme-troy/E-Commerce-App) | Ruby · Rails | Full-stack web app demonstrating CRUD, cart system, and MVC structure. |
-| [**Portfolio Website**](https://github.com/itsme-troy/Portfolio) | React · Next.js · Tailwind CSS | My personal portfolio showcasing projects and experience. |
 | [**Bicolana’s Bakery**](https://github.com/itsme-troy/Bicolana-bakery) | TypeScript · Next.js | A modern bakery website demonstrating reusable components and scalability. |
 
 ---
